@@ -1,4 +1,3 @@
 # COVID19_Timeseries
 
-Using SARIMAX to predict when no new cases of COVID-19 will be confirmed in Japan.
-(Please see the COVID19_Japan.ipynb)
+Trying different modelling methods to understand the growth and extent of the COVID-19 spread.
